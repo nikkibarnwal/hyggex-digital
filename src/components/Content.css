@@ -1,0 +1,21 @@
+.pageTitle {
+  color: #164ec0;
+}
+.cardBg {
+  background: linear-gradient(
+    222.94deg,
+    #051a91 -4.31%,
+    #061c93 14.41%,
+    #2284f1 81.88%,
+    #1f80eb 103.81%
+  );
+}
+
+
+.textColorBlue {
+  /* color: linear-gradient(180deg, #06286E 0%, #164EC0 100%); */
+  background: -webkit-linear-gradient(180deg, #06286e 0%, #164ec0 100%);
+  background-clip: inherit;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
