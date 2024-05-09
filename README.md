@@ -15,10 +15,10 @@ To run this project locally, follow these steps:
 Clone this repository to your local machine.  
 Navigate to the project directory in your terminal.  
 Install dependencies by running  
-# npm install.  
+# npm install  
 Start the development server with   
-# npm run dev.
-Open your browser and visit [http://localhost:3000](http://localhost:5174/) to view the application.  
+# npm run dev
+Open your browser and visit [http://localhost:5173](http://localhost:5173/) to view the application.  
 Usage <a name="usage"></a>  
 The CMS provides a straightforward interface for browsing through content. Upon launching the application, users are presented with a navigation bar, breadcrumb navigation, main content display, and a footer.
 
